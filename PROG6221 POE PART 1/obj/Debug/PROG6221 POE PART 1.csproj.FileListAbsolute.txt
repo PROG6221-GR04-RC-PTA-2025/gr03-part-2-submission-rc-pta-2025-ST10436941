@@ -1,0 +1,7 @@
+C:\Users\RC_Student_lab\source\repos\PROG6221 POE PART 1\bin\Debug\PROG6221 POE PART 1.exe.config
+C:\Users\RC_Student_lab\source\repos\PROG6221 POE PART 1\bin\Debug\PROG6221 POE PART 1.exe
+C:\Users\RC_Student_lab\source\repos\PROG6221 POE PART 1\bin\Debug\PROG6221 POE PART 1.pdb
+C:\Users\RC_Student_lab\source\repos\PROG6221 POE PART 1\obj\Debug\PROG6221 POE PART 1.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\PROG6221 POE PART 1\obj\Debug\PROG6221 POE PART 1.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\PROG6221 POE PART 1\obj\Debug\PROG6221 POE PART 1.exe
+C:\Users\RC_Student_lab\source\repos\PROG6221 POE PART 1\obj\Debug\PROG6221 POE PART 1.pdb
